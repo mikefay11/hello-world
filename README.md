@@ -1,3 +1,3 @@
 # hello-world
 New Repository
-I updated the readme file for teh purposes of changes to teh object
+I updated the readme file for the purposes of changes to the object
